@@ -4,6 +4,6 @@ import './Banner.css'
 export function Banner() {
     return (
         <header className="banner">
-       <img src={banner} alt="teste" /> </header>
+       <img src={banner} alt="Banner" /> </header>
     )
 }
